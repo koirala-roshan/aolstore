@@ -2418,7 +2418,7 @@ footer.typefooter-3 .news-letter {
         .best-seller .so-extraslider .extraslider-inner .item .item-wrap.style1 .media-body .item-info .item-content {
           margin-left: 0; }
           .best-seller .so-extraslider .extraslider-inner .item .item-wrap.style1 .media-body .item-info .item-content .content_price span {
-            color: #e74c3c;
+            color: #2e2e2e;
             font-size: 16px;
             font-weight: bold; }
             .best-seller .so-extraslider .extraslider-inner .item .item-wrap.style1 .media-body .item-info .item-content .content_price span.price-old {
@@ -4032,7 +4032,7 @@ ul.yt-accordion li.accordion-group h3.accordion-heading:hover .fa {
   text-transform: uppercase; }
 
 .label-sale {
-  background: #e67e22;
+  background: #d40101;
   top: 0;
   left: 0; }
   .label-sale:after {
@@ -4123,7 +4123,7 @@ span.fa-stack {
 .price {
   margin: 0 0 10px 0;
   line-height: 24px;
-  color: #e74c3c;
+  color: #2e2e2e;
   font-size: 18px;
   font-weight: 600; }
   .price .price-old {
@@ -4135,7 +4135,7 @@ span.fa-stack {
     font-size: 12px;
     font-weight: normal; }
   .price .price-new, .price span.price {
-    color: #e74c3c;
+    color: #2e2e2e;
     font-size: 18px; }
 
 /*-----------Block Sub Category------------------*/
